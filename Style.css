@@ -16,3 +16,6 @@ body {
 .last-message {
 	text-align: center;
 	color: #FFFFFF;}	
+	.button {
+		color: green
+	}
